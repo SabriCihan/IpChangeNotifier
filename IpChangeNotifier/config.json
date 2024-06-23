@@ -1,0 +1,14 @@
+{
+  "MailSettings": {
+    "Server": "smtp.gmail.com",
+    "Port": 587,
+    "SenderName": "name",
+    "SenderEmail": "test@gmail.com",
+    "Password": "test",
+    "To1": "to@gmail.com",
+    "To2": "",
+    "To3": "",
+    "EnableSsl" : true
+  },
+  "IpCheckIntervalMinutes": 2
+}
